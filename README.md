@@ -1,96 +1,93 @@
+# 👋 Hi, I'm Sarim Khan  
 
-<h1 align="center">Hi, I'm Sarim Khan (aka Sam or Brave Sam) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+Of+Artificial+Intelligence+%26;Cyber+Security+Engineering+(CSEAI);Android+Developer."></a>
-</p>
+### 💻 Data Scientist | Software Developer | Full Stack Engineer | AI Enthusiast  
 
-<br>
+📧 **Email:** [sarimkhan927@gmail.com](mailto:sarimkhan927@gmail.com)  
+🔗 **Portfolio:** [rexzcloud.com](https://rexzcloud.com)   
+💻 **GitHub:** [github.com/sarim-developer](https://github.com/sarim-developer)  
+🏆 **LeetCode:** [leetcode.com/sarimkhan34](https://leetcode.com/u/sarimkhan34/)  
 
-## :sassy_man: About Me
-- :school: I'm pursuing a degree in `Artificial Intelligence & Cyber Security Engineering`.
-- :trophy: Finalist at `ACPC 2021`.
-- :technologist: Solving problems with software is my passion.
-- :computer: Currently working on an exciting new `Operating System`.
-- :student: Studying for a `Bachelor of Technology` in `CSE (AI)`.
-- :thinking: Open to `Internship` or `Job` opportunities. Here's [MY RESUME](https://drive.google.com/file/).
-- :nerd_face: Always eager to learn new things.
-- :herb: Proud developer of some famous Discord bots: [Rexz](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot), [Rose](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot), [Legion](https://discord.com/api/oauth2/authorize?client_id=856741116912861276&permissions=8&scope=bot).
-- :deciduous_tree: Crafting a new Android app.
+---
 
-<br>
+## 🚀 About Me  
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brave-sam" alt="GitHub Streak Stats" />
-</p>
+I'm a **passionate Data Scientist & Full Stack Developer** .  
+I love creating scalable, secure, and performance-oriented web applications, combining backend logic with beautiful UI/UX experiences.  
 
-<br>
+My development philosophy focuses on building **impactful real-world products**, whether it’s a **cloud hosting platform**, an **AI-powered Discord bot**, or a **Flutter mobile app**.  
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with Me
-<p align="center">
-  <a href="mailto:sarimkhan927@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/brave-sam"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.me/"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-  <a href="https://www.linkedin.com/in/98b236/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/igsam_34/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://msng.link/o/?"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
-</p>
-
-<br>
-
-## 🛠️ My Skills
-
-### 👉 Programming Languages
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
-
-<!-- Add more sections for Frontend Development, Software & Tools, IDEs, Competitive Programming & Problem Solving, Operating Systems, etc., following the same format -->
-
-<br>
-
-## 📊 GitHub Stats
-<details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Brave Sam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brave-sam&show_icons=true&count_private=true&theme=algoli" height="192px"/></a>
-    <br/>
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brave-sam&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Brave Sam's Top Languages" height="192px"/>
-    <br/>
-    <b>Note:</b> Top languages represent the languages in my public code repositories.
-  </p>
-</details>
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <a href="https://github.com/brave-sam">
-  <img alt="Brave Sam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=brave-sam&custom_title=Brave%20Sam's%20Contribution%20Graph&theme=react-dark" />
-</a>
+---
 
 
-</details>
+## 🧠 Projects  
 
-<br>
+### 🌩️ [RexZ Cloud](https://rexzcloud.com)
+**Tech:** Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Razorpay, PayPal  
+- Built a **complete cloud hosting platform** with a powerful dashboard.  
+- Integrated **multi-payment support** (UPI, Cards, PayPal, Razorpay).  
+- Developed an **admin panel** for service management, billing, and resource tracking.  
+- Added **live chat integration** for 24/7 customer support.  
 
-## :trophy: Git Profile Trophies
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brave-sam&layout=compact&theme=algolia" alt="Git Profile Trophies" /></a>
-</p>
+---
+
+### 🖼️ [RexZ Image Hosting](https://image.rexzcloud.com)
+**Tech:** Next.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+- Built a **scalable image hosting service** with upload, transformation, and optimized delivery.  
+- Added an **API SDK** for developers to integrate image hosting into their own apps.  
+- Included user dashboards for **image management, previews, and sharing**.  
+
+---
+
+### 🤖 [RexZ Discord Bot](https://rexzbot.xyz)
+**Tech:** Node.js, Express.js, MongoDB, Discord API  
+- Created an **AI-powered Discord security bot** with **400+ commands**.  
+- Developed a **fully functional web dashboard** and a **revenue-generating model**.  
+- Implemented **real-time monitoring and server protection** features.  
+
+---
+
+### 🚗 [Full Stack Showroom Website](https://alsiddiquemotors.com/)
+**Tech:** Next.js, Tailwind CSS, Express.js, MongoDB, ShadCN UI  
+- Developed a **showroom management system** for **Al Siddique Motors**.  
+- Built a **dashboard for admin** to manage vehicle listings and images.  
+- Implemented **client-side features** for viewing, sharing, and downloading vehicle media.  
+
+---
+
+## 🛠️ Technical Skills  
+
+**Languages:** Python, Java, C, C++, Kotlin, JavaScript  
+**Web:** HTML, CSS, JavaScript, Angular, React.js, Next.js, Node.js  
+**Mobile:** Flutter, Android Development  
+**Backend & Tools:** Express.js, MongoDB, Docker, Redis, SQL, AWS  
+**Machine Learning:** Logistic Regression, CNN, K-Means Clustering  
+**Other Skills:** Tailwind CSS, Stream API, Git, Team Leadership, Problem Solving  
+
+---
+
+## 🏅 Certifications & Achievements  
+
+- 🧩 **Google Cybersecurity** – Google 
+- 🤖 **Machine Learning** – AWS
+- 🎯 **Co-Leader** – Technical Upskilling Workshop
+
+---
+
+## 🌱 Currently Exploring  
+- Advanced **AI integrations** for Discord and Web.  
+- **Scalable microservices** and **containerization** with Docker.  
+- **Next.js 15**, **Server Actions**, and **Edge Runtime APIs**.  
+
+---
+
+## 📽️ Featured Work  
+
+🎥 [Watch RexZ Cloud Demo](https://youtu.be/R1qH-FNOMKY?si=sB7_zJv6c9U71--2)  
+
+---
+
+## 💬 Let's Connect  
+I'm always open to collaboration, open-source contributions, and freelance opportunities.  
+Feel free to reach out — let's build something **innovative** together! 🚀  
+
+---
