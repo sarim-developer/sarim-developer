@@ -82,7 +82,7 @@ My development philosophy focuses on building **impactful real-world products**,
 
 ## 📽️ Featured Work  
 
-🎥 [Watch RexZ Cloud Demo](https://youtu.be/R1qH-FNOMKY?si=sB7_zJv6c9U71--2)  
+🎥 [Watch RexZ Bot Demo](https://youtu.be/R1qH-FNOMKY?si=sB7_zJv6c9U71--2)  
 
 ---
 
