@@ -2,8 +2,8 @@
 
 ### 💻 Data Scientist | Software Developer | Full Stack Engineer | AI Enthusiast  
 
-📧 **Email:** [sarimkhan927@gmail.com](mailto:sarim@rexzbot.xyz)  
-🔗 **Portfolio:** [rexzcloud.com](https://rexzbot.xyz)   
+📧 **Email:** [sarim@rexzbot.xyz](mailto:sarim@rexzbot.xyz)  
+🔗 **Portfolio:** [rexzbot.xyz](https://rexzbot.xyz)   
 💻 **GitHub:** [github.com/sarim-developer](https://github.com/sarim-developer)  
 🏆 **LeetCode:** [leetcode.com/sarimkhan34](https://leetcode.com/u/sarimkhan34/)  
 
@@ -21,7 +21,7 @@ My development philosophy focuses on building **impactful real-world products**,
 
 ## 🧠 Projects  
 
-###  Rose – The Best Music Player (App, Web App & Discord Bot)
+###  [Rose – The Best Music Player (App, Web App & Discord Bot)](https://app.rosemusic.xyz/)
 **Tech:** Flutter, Next.js, Tailwind CSS, Node.js, Rust, MongoDB, Discord API  
 
 - Created a **complete music ecosystem** including a web player, Android app, and Discord music bot.  
