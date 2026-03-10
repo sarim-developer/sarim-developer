@@ -21,12 +21,14 @@ My development philosophy focuses on building **impactful real-world products**,
 
 ## 🧠 Projects  
 
-### 🌩️ [RexZ Cloud](https://rexzcloud.com)
-**Tech:** Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Razorpay, PayPal  
-- Built a **complete cloud hosting platform** with a powerful dashboard.  
-- Integrated **multi-payment support** (UPI, Cards, PayPal, Razorpay).  
-- Developed an **admin panel** for service management, billing, and resource tracking.  
-- Added **live chat integration** for 24/7 customer support.  
+###  Rose – The Best Music Player (App, Web App & Discord Bot)
+**Tech:** Flutter, Next.js, Tailwind CSS, Node.js, Rust, MongoDB, Discord API  
+
+- Created a **complete music ecosystem** including a web player, Android app, and Discord music bot.  
+- Built a **modern web music player** where users can directly play songs → https://app.rosemusic.xyz  
+- Developed the **official website** for the platform → https://rosemusic.xyz  
+- Integrated **high-speed music streaming and search** powered by a custom backend.  
+- Designed a **feature-rich Discord music bot** for seamless music playback inside servers.  
 
 ---
 
@@ -46,11 +48,12 @@ My development philosophy focuses on building **impactful real-world products**,
 
 ---
 
-### 🚗 [Full Stack Showroom Website](https://alsiddiquemotors.com/)
-**Tech:** Next.js, Tailwind CSS, Express.js, MongoDB, ShadCN UI  
-- Developed a **showroom management system** for **Al Siddique Motors**.  
-- Built a **dashboard for admin** to manage vehicle listings and images.  
-- Implemented **client-side features** for viewing, sharing, and downloading vehicle media.  
+### 🌩️ [RexZ Cloud](https://rexzcloud.com)
+**Tech:** Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, Razorpay, PayPal  
+- Built a **complete cloud hosting platform** with a powerful dashboard.  
+- Integrated **multi-payment support** (UPI, Cards, PayPal, Razorpay).  
+- Developed an **admin panel** for service management, billing, and resource tracking.  
+- Added **live chat integration** for 24/7 customer support.  
 
 ---
 
