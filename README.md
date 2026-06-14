@@ -2,7 +2,7 @@
 
 ### 💻 Data Scientist | Software Developer | Full Stack Engineer | AI Enthusiast  
 
-📧 **Email:** [sarim@rexzbot.xyz](mailto:sarim@rexzbot.xyz)  
+📧 **Email:** [sarim@rexzbot.xyz](mailto:sarimkhan927@gmail.com)  
 🔗 **Portfolio:** [rexzbot.xyz](https://rexzbot.xyz)   
 💻 **GitHub:** [github.com/sarim-developer](https://github.com/sarim-developer)  
 🏆 **LeetCode:** [leetcode.com/sarimkhan34](https://leetcode.com/u/sarimkhan34/)  
